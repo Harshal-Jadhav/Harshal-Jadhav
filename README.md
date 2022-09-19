@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **harshaljadhav1000@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bQJfOs7pyOy1T3sBEVRlAXDk5RyPHOq-/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bQJfOs7pyOy1T3sBEVRlAXDk5RyPHOq-/view?usp=sharing) [Portfolio](https://harshal-jadhav.github.io/)
 
 - ⚡ Fun fact **You can't wash your eyes with soap**
 
