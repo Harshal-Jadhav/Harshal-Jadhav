@@ -24,6 +24,25 @@ I'm Harshal, a Full-Stack Web Developer based in Pune Maharashtra, Who is passio
 
 Want to know more about me? [Check out my portfolio](https://harshal-jadhav.github.io/)
 
+<h1></h1>
+<div>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<br />
+
+- 🔭 I’m currently a Student at **Masai School.**
+
+- 🌱 I’m currently learning **Java & Backend Technologies.**
+
+- 💬 I’m looking to collaborate on Interesting Projects.
+
+- 📫 How to reach me **harshaljadhav1000@gmail.com**
+
+- ⚡ Fun fact **You can't wash your eyes with soap.😂**
+</div>
+<br />
+
 ## 🛠 My Toolkit : 
 
 <div>
