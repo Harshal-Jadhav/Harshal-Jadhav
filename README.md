@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=harshal-jadhav&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-jadhav" /> </div>
 <h1></h1>
 
 Hey there,
@@ -41,7 +42,7 @@ Want to know more about me? [Check out my portfolio](https://harshal-jadhav.gith
 
 - ⚡ Fun fact **You can't wash your eyes with soap.😂**
 </div>
-<br />
+<br /><br />
 
 ## 🛠 My Toolkit : 
 
@@ -50,3 +51,11 @@ Want to know more about me? [Check out my portfolio](https://harshal-jadhav.gith
  [![My Skills](https://skills.thijs.gg/icons?i=java,spring,hibernate,maven,mysql,aws,js,html,css,git)](https://skills.thijs.gg)
 
 </div>
+
+## Current Stats:
+
+|   ![Harshal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harshal-Jadhav&theme=rogue) |
+| :---: |
+
+| ![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshal-Jadhav&show_icons=true&theme=dark) | ![Harshal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshal-Jadhav&theme=dark) |
+| :---: | :---: |
