@@ -1,6 +1,7 @@
 <!-- Github Banner Section-->
 [![Harshal's GitHub Banner](./assets/GithubBanner.png)](https://harshal-jadhav.github.io/)
 
+<h1>Know me More:-</h1></br>
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/harshal-jadhav">
@@ -17,7 +18,7 @@
   </a>
 </div>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=harshal-jadhav&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-jadhav" /> </div>
-<h1></h1>
+<h1>About ME:-</h1>
 
 Hey there,
 
