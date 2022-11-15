@@ -4,7 +4,7 @@
 <h1>Know me More:-</h1></br>
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/harshal-jadhav">
+  <a href="https://www.linkedin.com/in/harshal-jadhav/">
     <img src="https://img.shields.io/badge/Harshal Jadhav-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:harshaljadhav1000@gmail.com">
