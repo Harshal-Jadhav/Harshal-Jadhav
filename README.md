@@ -1,5 +1,5 @@
 <!-- Github Banner Section-->
-[![Harshal's GitHub Banner](./assets/GithubBanner.png)](https://harshal-jadhav.github.io/)
+[![Harshal's GitHub Banner](https://i.postimg.cc/zBsXg3P1/Github-Banner.png)](https://harshal-jadhav.github.io/)
 
 <h1>Know me More:-</h1></br>
 <!-- Adding Social Buttons -->
