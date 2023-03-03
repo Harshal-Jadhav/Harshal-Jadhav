@@ -26,7 +26,7 @@ I'm Harshal, a Full-Stack Web Developer based in Pune Maharashtra, Who is passio
 
 Want to know more about me? [Check out my portfolio.](https://harshal-jadhav.github.io/)
 
-<h1></h1>
+<h1> </h1>
 <div>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
